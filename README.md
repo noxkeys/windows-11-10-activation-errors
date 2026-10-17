@@ -129,7 +129,7 @@ These appear when the PC has a **KMS client key** (common after using generic or
 | `0x8007007B` | Activation failed, often due to a volume key with no KMS host | Replace the key with a genuine retail key                        |
 | "Your Windows licence will expire soon" | A volume licence is installed and managed by an organisation | Contact your IT administrator, or install a retail key on a personal PC |
 
-> **Using a generic or KMS key at home?** Those keys only install Windows. They can't activate it. See the companion reference [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys).
+> **Using a generic or KMS key at home?** Those keys only install Windows. They can't activate it. See the companion reference [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys).
 
 ---
 
@@ -255,11 +255,11 @@ No. Unofficial activators often contain malware and violate Microsoft's licence 
 
 More free references maintained by [Noxkeys](https://noxkeys.com/):
 
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
-- [How to Upgrade Windows 11 Home to Pro](https://github.com/webex9/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
-- [Microsoft Office Activation Errors and Fixes](https://github.com/webex9/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys): generic and KMS client keys for every Windows edition
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys): Office KMS keys, ospp.vbs commands and version comparison
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys): Server KMS keys, Standard vs Datacenter and Evaluation conversion
+- [How to Upgrade Windows 11 Home to Pro](https://github.com/noxkeys/upgrade-windows-11-home-to-pro): step-by-step upgrade without reinstalling
+- [Microsoft Office Activation Errors and Fixes](https://github.com/noxkeys/microsoft-office-activation-errors): fix "Unlicensed Product" and Office error codes
 
 ---
 
@@ -267,9 +267,9 @@ More free references maintained by [Noxkeys](https://noxkeys.com/):
 
 - [Microsoft Support – Get help with Windows activation errors](https://support.microsoft.com/en-us/windows/get-help-with-windows-activation-errors-09d8fb64-6768-4815-0c30-159fa7d89d85)
 - [Microsoft Support – Activate Windows](https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227)
-- [Windows 11 & 10 Product Keys](https://github.com/webex9/windows-11-10-product-keys) – generic and KMS keys for Windows
-- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/webex9/microsoft-office-2024-2021-2019-product-keys) – KMS keys and activation fixes for Office
-- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/webex9/windows-server-2025-2022-2019-product-keys) – KMS keys for Windows Server
+- [Windows 11 & 10 Product Keys](https://github.com/noxkeys/windows-11-10-product-keys) – generic and KMS keys for Windows
+- [Microsoft Office 2024, 2021 & 2019 Product Keys](https://github.com/noxkeys/microsoft-office-2024-2021-2019-product-keys) – KMS keys and activation fixes for Office
+- [Windows Server 2025, 2022 & 2019 Product Keys](https://github.com/noxkeys/windows-server-2025-2022-2019-product-keys) – KMS keys for Windows Server
 - [Noxkeys – Genuine Windows licences](https://noxkeys.com/)
 
 ---
